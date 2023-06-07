@@ -1,0 +1,9 @@
+---
+BasedOnStyle:  Google
+IndentWidth: 4
+SortIncludes: Never
+AllowShortCaseLabelsOnASingleLine: true
+IndentCaseBlocks: false
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Inline
+AlignAfterOpenBracket: DontAlign
